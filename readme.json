@@ -13,7 +13,7 @@
             "last_commit": "2026-01-31T14:57:03Z",
             "owner": "bloxstraplabs",
             "repo": "bloxstrap",
-            "stars": 2792
+            "stars": 2793
           }
         },
         {
@@ -36,7 +36,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2025-12-10T19:59:39Z",
+            "last_commit": "2026-02-07T23:45:12Z",
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
             "stars": 355
@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2026-02-04T14:03:51Z",
+            "last_commit": "2026-02-07T23:02:33Z",
             "owner": "Epix-Incorporated",
             "repo": "Adonis",
             "stars": 434
@@ -166,7 +166,7 @@
             "last_commit": "2025-12-24T11:35:36Z",
             "owner": "evaera",
             "repo": "Cmdr",
-            "stars": 471
+            "stars": 473
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-02-03T13:50:35Z",
             "owner": "1Axen",
             "repo": "blink",
-            "stars": 146
+            "stars": 147
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2025-03-11T17:54:45Z",
             "owner": "osyrisrblx",
             "repo": "t",
-            "stars": 307
+            "stars": 306
           }
         }
       ],
@@ -756,7 +756,7 @@
             "last_commit": "2026-02-05T06:33:05Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1191
+            "stars": 1193
           }
         }
       ],
@@ -772,7 +772,7 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2026-02-07T08:56:55Z",
+            "last_commit": "2026-02-07T16:56:59Z",
             "owner": "JohnnyMorganz",
             "repo": "luau-lsp",
             "stars": 417
@@ -897,7 +897,7 @@
             "last_commit": "2026-01-23T21:15:34Z",
             "owner": "rojo-rbx",
             "repo": "rojo",
-            "stars": 1405
+            "stars": 1407
           }
         }
       ],
@@ -942,10 +942,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:01:21.414Z",
+    "last_updated": "2026-02-08T04:23:28.457Z",
     "original_repository": "awesome-roblox/awesome-roblox",
     "source_repository": "v1nvn/enhansome-roblox",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
