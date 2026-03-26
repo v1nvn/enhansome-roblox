@@ -13,7 +13,7 @@
             "last_commit": "2026-02-27T16:32:46Z",
             "owner": "bloxstraplabs",
             "repo": "bloxstrap",
-            "stars": 2857
+            "stars": 2859
           }
         },
         {
@@ -39,7 +39,7 @@
             "last_commit": "2026-03-18T06:00:51Z",
             "owner": "MaximumADHD",
             "repo": "Roblox-Studio-Mod-Manager",
-            "stars": 369
+            "stars": 368
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-03-15T16:50:58Z",
             "owner": "vinegarhq",
             "repo": "vinegar",
-            "stars": 652
+            "stars": 654
           }
         }
       ],
@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2026-03-24T18:48:08Z",
+            "last_commit": "2026-03-25T21:35:34Z",
             "owner": "flipbook-labs",
             "repo": "flipbook",
             "stars": 116
@@ -234,7 +234,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-02-04T22:20:08Z",
+            "last_commit": "2026-03-25T21:20:30Z",
             "owner": "loneka",
             "repo": "neohotbar",
             "stars": 26
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-21T10:30:30Z",
+            "last_commit": "2026-03-25T22:51:59Z",
             "owner": "noblox",
             "repo": "noblox.js",
             "stars": 311
@@ -400,7 +400,7 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2025-11-22T20:00:54Z",
+            "last_commit": "2026-03-25T13:46:06Z",
             "owner": "paradoxum-games",
             "repo": "lyra",
             "stars": 125
@@ -416,7 +416,7 @@
             "last_commit": "2025-07-31T10:11:53Z",
             "owner": "MadStudioRoblox",
             "repo": "ProfileStore",
-            "stars": 265
+            "stars": 266
           }
         }
       ],
@@ -448,7 +448,7 @@
             "last_commit": "2026-03-10T02:28:27Z",
             "owner": "Ukendio",
             "repo": "jecs",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2024-12-31T18:14:36Z",
             "owner": "matter-ecs",
             "repo": "matter",
-            "stars": 104
+            "stars": 103
           }
         },
         {
@@ -517,7 +517,7 @@
             "archived": false,
             "language": "Luau",
             "last_commit": "2025-12-28T19:15:45Z",
-            "owner": "teamfireworks",
+            "owner": "team-fireworks",
             "repo": "prvdmwrong",
             "stars": 33
           }
@@ -551,7 +551,7 @@
             "last_commit": "2025-08-01T23:38:16Z",
             "owner": "ffrostfall",
             "repo": "ByteNet",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2025-05-23T02:42:51Z",
             "owner": "jsdotlua",
             "repo": "react-lua",
-            "stars": 539
+            "stars": 538
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-03-06T19:39:44Z",
             "owner": "Quenty",
             "repo": "NevermoreEngine",
-            "stars": 562
+            "stars": 564
           }
         },
         {
@@ -769,7 +769,7 @@
             "last_commit": "2026-03-18T04:14:27Z",
             "owner": "roblox-ts",
             "repo": "roblox-ts",
-            "stars": 1223
+            "stars": 1224
           }
         }
       ],
@@ -785,7 +785,7 @@
           "repo_info": {
             "archived": false,
             "language": "Luau",
-            "last_commit": "2026-03-25T03:15:46Z",
+            "last_commit": "2026-03-26T03:24:36Z",
             "owner": "JohnnyMorganz",
             "repo": "luau-lsp",
             "stars": 449
@@ -830,7 +830,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-23T06:48:51Z",
+            "last_commit": "2026-03-26T00:04:23Z",
             "owner": "JohnnyMorganz",
             "repo": "StyLua",
             "stars": 2129
@@ -865,7 +865,7 @@
             "last_commit": "2026-01-28T16:55:25Z",
             "owner": "UpliftGames",
             "repo": "wally",
-            "stars": 461
+            "stars": 462
           }
         }
       ],
@@ -955,7 +955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:07:13.615Z",
+    "last_updated": "2026-03-26T04:20:58.152Z",
     "original_repository": "awesome-roblox/awesome-roblox",
     "source_repository": "v1nvn/enhansome-roblox",
     "source_repository_description": null,
