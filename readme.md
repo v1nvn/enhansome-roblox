@@ -20,9 +20,9 @@
 
 ## Software
 
-* [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) ⭐ 2,874 | 🐛 1,300 | 🌐 C# | 📅 2026-02-27 - An alternative bootstrapper for Roblox with a bunch of extra features.
+* [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) ⭐ 2,874 | 🐛 1,301 | 🌐 C# | 📅 2026-02-27 - An alternative bootstrapper for Roblox with a bunch of extra features.
 * [Vinegar](https://github.com/vinegarhq/vinegar) ⭐ 658 | 🐛 25 | 🌐 Go | 📅 2026-03-15 - An open-source, configurable, fast bootstrapper for running Roblox Studio on Linux.
-* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) ⭐ 367 | 🐛 24 | 🌐 C# | 📅 2026-03-18 - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
+* [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) ⭐ 366 | 🐛 24 | 🌐 C# | 📅 2026-03-18 - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
 * [BTRoblox](https://github.com/AntiBoomz/BTRoblox) ⭐ 215 | 🐛 66 | 🌐 JavaScript | 📅 2026-02-15 - Browser extension that enhances the Roblox website's look and functionality.
 
 ## Experiences
@@ -32,15 +32,15 @@
 
 ## Plugins
 
-* [UI Labs](https://github.com/PepeElToro41/ui-labs) ⭐ 157 | 🐛 15 | 🌐 TypeScript | 📅 2026-01-31 - A Storybook plugin for Roblox.
-* [flipbook](https://github.com/flipbook-labs/flipbook) ⭐ 115 | 🐛 87 | 🌐 Luau | 📅 2026-03-31 - Storybook plugin for previewing UI components.
+* [UI Labs](https://github.com/PepeElToro41/ui-labs) ⭐ 158 | 🐛 15 | 🌐 TypeScript | 📅 2026-01-31 - A Storybook plugin for Roblox.
+* [flipbook](https://github.com/flipbook-labs/flipbook) ⭐ 115 | 🐛 85 | 🌐 Luau | 📅 2026-03-31 - Storybook plugin for previewing UI components.
 * [Roblox-Plugins](https://github.com/MaximumADHD/Roblox-Plugins) ⭐ 109 | 🐛 6 | 🌐 Lua | 📅 2025-10-16 - List of plugins developed by [MaximumADHD](https://github.com/MaximumADHD).
 
 ## Modules
 
 ### Administration
 
-* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 483 | 🐛 48 | 🌐 Luau | 📅 2025-12-24 - Extensible command console for developers.
+* [Cmdr](https://github.com/evaera/Cmdr) ⭐ 484 | 🐛 48 | 🌐 Luau | 📅 2025-12-24 - Extensible command console for developers.
 * [Adonis](https://github.com/Epix-Incorporated/Adonis) ⭐ 456 | 🐛 69 | 🌐 Luau | 📅 2026-03-28 - Server moderation and management system.
 * [Conch](https://github.com/alicesaidhi/conch) ⭐ 90 | 🐛 11 | 🌐 Luau | 📅 2026-02-24 - Modern and scalable developer console with a shell-like turing-complete scripting language.
 * [Centurion](https://github.com/paradoxuum/centurion) ⭐ 56 | 🐛 9 | 🌐 TypeScript | 📅 2026-01-08 - A flexible and extensible command framework for roblox-ts.
@@ -55,7 +55,7 @@
 
 ### Topbar
 
-* [TopbarPlus](https://github.com/1ForeverHD/TopbarPlus) ⭐ 199 | 🐛 40 | 🌐 Lua | 📅 2025-09-17 - Construct dynamic and intuitive topbar icons.
+* [TopbarPlus](https://github.com/1ForeverHD/TopbarPlus) ⭐ 200 | 🐛 40 | 🌐 Lua | 📅 2025-09-17 - Construct dynamic and intuitive topbar icons.
 
 ### UI components
 
@@ -72,7 +72,7 @@
 
 ### DataStore
 
-* [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) ⭐ 267 | 🐛 0 | 🌐 Luau | 📅 2025-07-31 - Periodic DataStore saving solution with session locking.
+* [ProfileStore](https://github.com/MadStudioRoblox/ProfileStore) ⭐ 268 | 🐛 0 | 🌐 Luau | 📅 2025-07-31 - Periodic DataStore saving solution with session locking.
 * [Lyra](https://github.com/paradoxum-games/lyra) ⭐ 127 | 🐛 3 | 🌐 Luau | 📅 2026-03-25 - Advanced player data management with a simple API.
 * [Lapis](https://github.com/nezuo/lapis) ⭐ 75 | 🐛 9 | 🌐 Luau | 📅 2025-02-12 - A DataStore abstraction library for Roblox.
 * [DocumentService](https://github.com/anthony0br/DocumentService) ⭐ 47 | 🐛 28 | 🌐 Luau | 📅 2026-03-02 - A powerful, schematised Roblox datastore library.
@@ -110,14 +110,14 @@
 ### UI
 
 * [Fusion](https://github.com/dphfox/Fusion) ⭐ 745 | 🐛 61 | 🌐 Luau | 📅 2026-02-02 - A modern reactive UI library, built specifically for Roblox and Luau.
-* [React Lua](https://github.com/jsdotlua/react-lua) ⭐ 538 | 🐛 19 | 🌐 Luau | 📅 2025-05-23 - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
-* [Iris](https://github.com/Michael-48/Iris) ⭐ 321 | 🐛 12 | 🌐 Luau | 📅 2026-03-27 - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 72,284 | 🐛 1,223 | 🌐 C++ | 📅 2026-03-30.
+* [React Lua](https://github.com/jsdotlua/react-lua) ⭐ 539 | 🐛 19 | 🌐 Luau | 📅 2025-05-23 - A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.
+* [Iris](https://github.com/Michael-48/Iris) ⭐ 321 | 🐛 12 | 🌐 Luau | 📅 2026-03-27 - Immediate mode GUI Library for Roblox, Based on [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 72,300 | 🐛 1,221 | 🌐 C++ | 📅 2026-03-31.
 * [Vide](https://github.com/centau/vide) ⭐ 233 | 🐛 6 | 🌐 Luau | 📅 2026-03-10 - A reactive Luau library for creating UI.
 * [fluid](https://github.com/ffrostfall/fluid) ⭐ 26 | 🐛 4 | 🌐 Luau | 📅 2025-10-02 - A declarative UI framework for Roblox.
 
 ### Utility
 
-* [Nevermore](https://github.com/Quenty/NevermoreEngine) ⭐ 565 | 🐛 65 | 🌐 Lua | 📅 2026-03-28 - ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox.
+* [Nevermore](https://github.com/Quenty/NevermoreEngine) ⭐ 565 | 🐛 64 | 🌐 Lua | 📅 2026-04-01 - ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox.
 * [RbxUtil](https://github.com/Sleitnick/RbxUtil) ⭐ 397 | 🐛 44 | 🌐 Luau | 📅 2025-12-02 - A collection of utility modules for Roblox.
 * [t](https://github.com/osyrisrblx/t) ⭐ 313 | 🐛 6 | 🌐 Lua | 📅 2025-03-11 - A Runtime Typechecker for Roblox.
 * [Janitor](https://github.com/howmanysmall/Janitor) ⭐ 139 | 🐛 4 | 🌐 Luau | 📅 2025-10-19 - Light-weight, flexible object for cleaning up connections, instances, etc.
@@ -126,9 +126,9 @@
 
 ### Compilers
 
-* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,226 | 🐛 160 | 🌐 TypeScript | 📅 2026-03-18 - A TypeScript-to-Luau Compiler for Roblox.
-* [Lune](https://github.com/lune-org/lune) ⭐ 851 | 🐛 85 | 🌐 Rust | 📅 2025-10-14 - A standalone Luau runtime.
-* [darklua](https://github.com/seaofvoices/darklua) ⭐ 201 | 🐛 50 | 🌐 Rust | 📅 2026-02-24 - Transform Lua 5.1 and Roblox Lua scripts using rules.
+* [roblox-ts](https://github.com/roblox-ts/roblox-ts) ⭐ 1,227 | 🐛 160 | 🌐 TypeScript | 📅 2026-03-18 - A TypeScript-to-Luau Compiler for Roblox.
+* [Lune](https://github.com/lune-org/lune) ⭐ 853 | 🐛 85 | 🌐 Rust | 📅 2025-10-14 - A standalone Luau runtime.
+* [darklua](https://github.com/seaofvoices/darklua) ⭐ 202 | 🐛 50 | 🌐 Rust | 📅 2026-02-24 - Transform Lua 5.1 and Roblox Lua scripts using rules.
 
 ### Documentation Generators
 
@@ -136,13 +136,13 @@
 
 ### Language Servers
 
-* [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp) ⭐ 451 | 🐛 71 | 🌐 Luau | 📅 2026-03-30 - Language Server Implementation for Luau.
+* [Luau Language Server](https://github.com/JohnnyMorganz/luau-lsp) ⭐ 451 | 🐛 73 | 🌐 Luau | 📅 2026-04-01 - Language Server Implementation for Luau.
 * [Roblox Luau Language Server](https://github.com/NightrainsRbx/RobloxLsp) ⭐ 235 | 🐛 65 | 🌐 Lua | 📅 2025-01-25 - Language Server for Roblox based on Lua by sumneko.
 
 ### Linters/Formatters
 
-* [StyLua](https://github.com/JohnnyMorganz/StyLua) ⭐ 2,131 | 🐛 63 | 🌐 Rust | 📅 2026-03-27 - An opinionated Lua code formatter.
-* [selene](https://github.com/Kampfkarren/selene) ⭐ 757 | 🐛 145 | 🌐 Rust | 📅 2026-03-03 - A blazing-fast modern Lua linter written in Rust.
+* [StyLua](https://github.com/JohnnyMorganz/StyLua) ⭐ 2,132 | 🐛 63 | 🌐 Rust | 📅 2026-03-27 - An opinionated Lua code formatter.
+* [selene](https://github.com/Kampfkarren/selene) ⭐ 758 | 🐛 145 | 🌐 Rust | 📅 2026-03-03 - A blazing-fast modern Lua linter written in Rust.
 
 ### Open Cloud
 
@@ -155,7 +155,7 @@
 
 ### Syncing Tools
 
-* [Rojo](https://github.com/rojo-rbx/rojo) ⭐ 1,508 | 🐛 169 | 🌐 Rust | 📅 2026-02-14 - Enables Roblox developers to use professional-grade software engineering tools.
+* [Rojo](https://github.com/rojo-rbx/rojo) ⭐ 1,509 | 🐛 170 | 🌐 Rust | 📅 2026-02-14 - Enables Roblox developers to use professional-grade software engineering tools.
 * [Argon](https://github.com/argon-rbx/argon) ⭐ 126 | 🐛 10 | 🌐 Rust | 📅 2026-03-04 - Full featured tool for Roblox development.
 * [Lync](https://github.com/Iron-Stag-Games/Lync) ⭐ 35 | 🐛 9 | 🌐 JavaScript | 📅 2026-03-04 - File sync tool.
 
